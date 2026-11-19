@@ -1,0 +1,37 @@
+{
+  "documents": [
+    {
+      "File_Name": "1_invoice_short.png",
+      "Document_Type": "invoice",
+      "Document_Number": "BOS-2026-00417",
+      "Date": "2026-11-12",
+      "Issuer": "BRIGHTLINE OFFICE SUPPLY CO.",
+      "Recipient": "Kestrel Logistics Inc.",
+      "Total_Amount": 319.43,
+      "Currency": "USD",
+      "Summary": "This is an invoice issued by Brightline Office Supply Co. to Kestrel Logistics Inc. for office supplies including copy paper, toner cartridges, and ergonomic mice. The total amount due is 319.43 USD, which includes an 8% sales tax, payable by December 12, 2026."
+    },
+    {
+      "File_Name": "2_receipt.jpg",
+      "Document_Type": "receipt",
+      "Document_Number": "BMC-58213",
+      "Date": "2026-11-15",
+      "Issuer": "BLUE MOUNTAIN CAFE",
+      "Recipient": "Michael Brooks",
+      "Total_Amount": 34.21,
+      "Currency": "USD",
+      "Summary": "This receipt from Blue Mountain Cafe details a food and beverage order served to Michael Brooks at table 7. The items purchased include cappuccinos, a croissant, juice, muffins, and water, totaling 34.21 USD including a 15% tip. Payment was completed via credit card."
+    },
+    {
+      "File_Name": "3_invoice_long.pdf",
+      "Document_Type": "invoice",
+      "Document_Number": "VCS-INV-2026-11873",
+      "Date": "2026-11-03",
+      "Issuer": "VERTEX CLOUD SOLUTIONS LTD.",
+      "Recipient": "Andes Data Academy Ltd.",
+      "Total_Amount": 2759.38,
+      "Currency": "EUR",
+      "Summary": "This tax invoice from Vertex Cloud Solutions Ltd. charges Andes Data Academy Ltd. for cloud computing, storage, networking, and professional support services consumed in October 2026. After a 5% volume discount and 23% VAT, the total payable amount is 2,759.38 EUR. Payment is due within 30 days of the issue date."
+    }
+  ]
+}
